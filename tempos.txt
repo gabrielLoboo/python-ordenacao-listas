@@ -1,0 +1,7 @@
+Selection: 5k = 2.53s | 10k = 9.96s | 100k = 16.76min
+
+Insertion: 5k = 2.46s | 10k = 9.02s  | 100k = 16.58min
+
+Merge: 10k = 0.12s  | 100k = 1.39s  | 500k = 7.82s
+
+Bubble: 5k = 5.00s | 10k = 19.88s  | 100k = 34.02min
